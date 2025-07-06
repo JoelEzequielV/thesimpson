@@ -1,0 +1,86 @@
+@font-face {
+    font-family: 'Simpsonfont';
+    src: url('./fonts/Simpsonfont.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+.fontLS{ font-family: 'Simpsonfont', sans-serif; }
+
+.fontBS{text-shadow: 1px 1px 0px #ffc107, -1px -1px 0 #ffc107, 1px -1px 0 #ffc107, -1px 1px 0 #ffc107;}
+
+html, body, #root {
+    display: grid;
+    min-height: 100vh !important;
+    grid-template-rows: auto 1fr auto ;
+    background-image: url("/assets/bg1.jpg");
+    background-repeat: repeat;
+}
+.imgCards1{
+    object-fit: contain;
+    height: 15em;
+    padding: 0.5em;
+}
+.imgAcerca{
+    width: 12em;
+    height: auto;
+    margin: auto;
+    border-radius: 2em;
+}
+.bgColor1{
+    background-color: #F7BE53 !important;
+}
+.textP{
+    background: #ffffff8c;
+    padding: 1em 16px;
+    border-radius: 1em;
+    border: 1px solid #000;
+}
+
+/* estilos editados */
+.active>.page-link, .page-link.active
+ {
+    color: #000;
+    background-color: #F7BE53 !important;
+    border-color: #F7BE53 !important;
+}
+.form-check-input:checked {
+    background-color:  #F7BE53 !important;
+    border-color:  #F7BE53 !important;
+}
+.page-link{color: #000 !important;}
+.nav-link{color: #ffffff !important;}
+.nav-link:hover{background-color: #00000020;}
+.nav-link:active{background-color: #00000020; border: 1px solid #ffffff;}
+.page-link:hover{
+    color: #000 !important;
+    border: 1px solid var(--bs-pagination-border-color);
+}
+.page-link:hover{
+    outline-color: #000 !important;
+    box-shadow: none;
+}
+.h-100{
+    background: #ffffff8c !important;;
+}
+
+
+/* hover card*/
+  .card-gg:hover{
+    box-shadow: 0px 0px 25px 6px #65b0d2;
+    -webkit-box-shadow: 4px 1px 25px 6px #65abcb;
+    -moz-box-shadow: 4px 1px 25px 6px #4896b9;
+    transform: scale(1.05);
+  }
+  .card-gg{
+    transition:
+    transform 1s,
+    box-shadow 1s
+  }
+
+
+  
+
+      
+    
+
+      

@@ -1,0 +1,87 @@
+
+export default [
+  {
+    id: 1,
+    nombre: "Homero Jay Simpson",
+    categoria: "Padres",
+    descripcion: "Homer Jay Simpson es el protagonista de la serie de televisión de dibujos animados Los Simpson. Es el padre de la familia protagonista y uno de los personajes centrales más importantes de la serie.",
+    imagen: "../../images/Homer.webp"
+  },
+  {
+    id: 2,
+    nombre: "Marge Bouvier",
+    categoria: "Padres",
+    descripcion: "Marjorie Jacqueline «Marge» Simpson es un personaje ficticio de la serie de televisión de dibujos animados Los Simpson. Es la esposa de Homer Simpson y madre de los tres hijos que ha tenido de este matrimonio: Bart, Lisa y Maggie. ",
+    imagen: "../../images/Marge.webp"
+  },
+  {
+    id: 3,
+    nombre: "Bart Simpson",
+    categoria: "Hijos",
+    descripcion: "Bartholomew «Bart» J. Simpson​​ es uno de los protagonistas de la serie de televisión de dibujos animados Los Simpson. Bart tiene diez años y es el primogénito y único hijo varón de Homer y Marge Simpson. Es el hermano mayor de Lisa y Maggie.",
+    imagen: "../../images/Bart.webp"
+  },
+  {
+    id: 4,
+    nombre: "Lisa Simpson",
+    categoria: "Hijos",
+    descripcion: "Lisa Marie Simpson​​ es un personaje de la serie de televisión de dibujos animados Los Simpson. Es la hija mediana de Homer y Marge Simpson y hermana de Bart y Maggie. Goza de notable protagonismo y complejidad en la serie.",
+    imagen: "../../images/Lisa.webp"
+  },
+  {
+    id: 5,
+    nombre: "Maggie Simpson",
+    categoria: "Hijos",
+    descripcion: "Margaret Simpson, conocida como Maggie Simpson, es un personaje ficticio de la serie de televisión de dibujos animados Los Simpson. Es la tercera hija del matrimonio protagonista, Homer y Marge Simpson, y la más joven de ellos. Sus hermanos mayores son Bart y Lisa Simpson.",
+    imagen: "../../images/Maggie.webp"
+  },
+  {
+    id: 6,
+    nombre: "Abraham Jay Simpson",
+    categoria: "Abuelos",
+    descripcion: "Abraham «Abe» Jebediah Simpson, más conocido como el Abuelo, es un personaje de la serie de televisión de dibujos animados Los Simpson. En ella, es el padre de Homer Simpson, el abuelo de sus hijos Bart, Lisa y Maggie y el suegro de Marge.",
+    imagen: "../../images/Abraham.webp"
+  },
+  {
+    id: 7,
+    nombre: "Mona Simpson",
+    categoria: "Abuelos",
+    descripcion: "Mona Penelope Simpson es un personaje ficticio de la serie de televisión de dibujos animados Los Simpson. Era la madre de Homer y esposa de Abraham, e hizo su debut en televisión el 19 de noviembre de 1995, en el episodio «Mother Simpson».",
+    imagen:  "../../images/Mona.webp"
+  },
+  {
+    id: 8,
+    nombre: "Patty Bouvier",
+    categoria: "Ti@s",
+    descripcion: "Patricia «Patty» Alvarine Bouvier es un personaje menor de la serie animada Los Simpson. Aparece por primera vez en el episodio «Simpsons Roasting on an Open Fire». Es hermana gemela de Selma Bouvier y hermana mayor de Marge Simpson.",
+    imagen: "../../images/Patty.webp"
+  },
+  {
+    id: 9,
+    nombre: "Selma Bouvier",
+    categoria: "Ti@s",
+    descripcion: "Selma Bouvier es un personaje secundario de la serie animada Los Simpson. Aparece por primer vez en el episodio «Simpsons Roasting on an Open Fire». Es hermana gemela de Patty Bouvier y hermana mayor de Marge Simpson.",
+    imagen: "../../images/Selma.webp"
+  },
+  {
+    id: 10,
+    nombre: "Bola de nieve V",
+    categoria: "Mascotas",
+    descripcion: "Bola de nieve V una gata de color negro que aparece por primera vez en I, D'oh-Bot y ha sido la gata de la familia desde entonces. Para ahorrarse el dinero del cuenco Snowball V fue renombrado a Snowball II. Esta es la gata que posee la familia actualmente.",
+    imagen: "../../images/Snowball_V.webp"
+  },
+  {
+    id: 11,
+    nombre: "Ayudante de Santa",
+    categoria: "Mascotas",
+    descripcion: "Santa's Little Helper es el perro de la familia Simpson en la serie de televisión de dibujos animados Los Simpson. En las primeras temporadas, en la versión de España es nombrado Botones de santa. Es un galgo inglés marrón. En un capítulo se menciona que su cumpleaños es el mismo día que el de Homer.",
+    imagen: "../../images/Santa_Little_Helper.webp"
+  },
+  {
+    id: 12,
+    nombre: "Plopper",
+    categoria: "Mascotas",
+    descripcion: "Plopper fue adoptado por Homer después de que lo ve presentado en un comercial de Krusty Burger filmado en vivo en uno de Springfieldson los lugares de Krusty Burger cuando está a punto de ser asesinado. ",
+    imagen: "../../images/Plopper_Tapped.webp"
+  }
+];
